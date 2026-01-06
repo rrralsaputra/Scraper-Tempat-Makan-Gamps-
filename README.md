@@ -24,8 +24,7 @@ The goal is to collect structured information for data analysis and portfolio pu
 - Cleaned missing or incomplete values
 
 ## 📈 Sample Output
-
+![Contoh Output](Contoh_output.png)
 
 ## ⚠️ Disclaimer
-This project is for educational and portfolio purposes only.
-The data was collected in a limited scope and not used commercially.
+Data dikumpulkan dalam lingkup terbatas dan tidak digunakan secara komersial.
