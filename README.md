@@ -1,30 +1,30 @@
 # Google Maps Restaurant Data Scraper
 
 ## 📌 Project Overview
-This project scrapes restaurant data from Google Maps using Python and Selenium.
-The goal is to collect structured information for data analysis and portfolio purposes.
+Proyek ini mengambil data restoran dari Google Maps menggunakan Python dan Selenium.
+Tujuannya adalah untuk mengumpulkan informasi terstruktur untuk analisis data.
 
-## 📊 Data Collected
-- Restaurant Name
-- Address
-- Phone Number
-- Rating
-- Short Customer Review
-- Google Maps URL
+## 📊 Data yang Dikumpulkan
+- Nama Restoran
+- Alamat
+- Nomor Telepon
+- Peringkat
+- Ulasan Pelanggan Singkat
+- URL Google Maps
 
-## 🛠️ Technologies Used
+## 🛠️ Teknologi yang Digunakan
 - Python
 - Selenium
 - Pandas
 
-## ⚙️ Challenges & Solutions
-- Handled lazy-loaded reviews by navigating to the Reviews tab
-- Prevented duplicate data using URL as a unique identifier
-- Managed dynamic DOM changes with multiple selectors
-- Cleaned missing or incomplete values
+## ⚙️ Tantangan & Solusi
+- Menangani ulasan yang dimuat secara bertahap dengan menavigasi ke tab Ulasan
+- Mencegah data duplikat menggunakan URL sebagai pengidentifikasi unik
+- Mengelola perubahan DOM dinamis dengan beberapa selektor
+- Membersihkan nilai yang hilang atau tidak lengkap
 
-## 📈 Sample Output
+## 📈 Contoh Output
 ![Contoh Output](Contoh_output.png)
 
-## ⚠️ Disclaimer
+## ⚠️ Penafian
 Data dikumpulkan dalam lingkup terbatas dan tidak digunakan secara komersial.
