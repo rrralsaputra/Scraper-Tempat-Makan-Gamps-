@@ -20,8 +20,7 @@ Tujuannya adalah untuk mengumpulkan informasi terstruktur untuk analisis data.
 ## ⚙️ Tantangan & Solusi
 - Menangani ulasan yang dimuat secara bertahap dengan menavigasi ke tab Ulasan
 - Mencegah data duplikat menggunakan URL sebagai pengidentifikasi unik
-- Mengelola perubahan DOM dinamis dengan beberapa selektor
-- Membersihkan nilai yang hilang atau tidak lengkap
+- Mengelola perubahan struktur halaman web dinamis dinamis dengan beberapa selektor
 
 ## 📈 Contoh Output
 ![Contoh Output](Contoh_output.png)
